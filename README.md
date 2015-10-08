@@ -1,0 +1,1 @@
+This is a collection of Jupyter notebooks written with IHaskell kernel in background providing serving as demonstrations of some topics in mathematics and computer science, as well as exercises in Haskell.
