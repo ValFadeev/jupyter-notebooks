@@ -1,1 +1,1 @@
-This is a collection of [Jupyter](https://jupyter.org) notebooks written with [IHaskell](https://github.com/gibiansky/IHaskell) kernel in background providing serving as demonstrations of some topics in mathematics and computer science, as well as exercises in Haskell.
+This is a collection of [Jupyter](https://jupyter.org) notebooks written with [IHaskell](https://github.com/gibiansky/IHaskell) kernel in background serving as demonstrations of some topics in mathematics and computer science, as well as exercises in Haskell.
